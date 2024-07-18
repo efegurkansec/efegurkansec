@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Gürkan</h1>
 <h3 align="center">A passionate Cybersecurity student from Turkey </h3>
-<iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efegurkansec&label=Profile%20views&color=0e75b6&style=flat" alt="efegurkansec" /> </p>
 
 - 🌱 I’m currently learning **Java, Python**
